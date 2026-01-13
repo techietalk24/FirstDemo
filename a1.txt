@@ -1,6 +1,5 @@
 hello
  wokring with got stash 
-Working with Git
 
 Working with Git and GitHub
 
