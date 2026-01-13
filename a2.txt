@@ -1,1 +1,4 @@
 hello
+Learning a new module Git and GitHub
+This is an amazing learning experience
+
